@@ -1,6 +1,6 @@
 ### Wrangling and Analysis of WeRateDogs Twitter Dataset
 
-![CfN23AXEAEkZkz](https://www.google.com/url?sa=i&url=https%3A%2F%2Fa-z-animals.com%2Fblog%2Ftop-9-prettiest-cutest-dogs%2F&psig=AOvVaw2ACLvcefp1sxwhCcdJjzy0&ust=1665852684624000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCm-oeX4PoCFQAAAAAdAAAAABAE)
+![CfN23AXEAEkZkz](http://www.petsworld.in/blog/wp-content/uploads/2015/03/Poodle01.jpg)
 
 #### Introduction
 
